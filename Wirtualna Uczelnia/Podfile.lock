@@ -1,0 +1,15 @@
+PODS:
+  - SwiftSoup (1.6.1)
+  - TextFieldEffects (1.4.0)
+
+DEPENDENCIES:
+  - SwiftSoup
+  - TextFieldEffects
+
+SPEC CHECKSUMS:
+  SwiftSoup: 1eedf56f751b36035ae6c95562f86944c9cfafee
+  TextFieldEffects: 4ee41b5216e674d55fb6ac25107bf1af7629176f
+
+PODFILE CHECKSUM: 3c44e861ec5ad04e31c78671e57f82d928b22b8a
+
+COCOAPODS: 1.4.0
